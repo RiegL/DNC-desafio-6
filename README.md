@@ -6,7 +6,7 @@ Este projeto utiliza as seguintes tecnologias e ferramentas:
 
 - **Node.js**: Ambiente de execução JavaScript no lado do servidor.
 - **Express**: Framework web para Node.js, utilizado para construir a API REST.
-- **MySQL**: Sistema de gerenciamento de banco de dados relacional.
+- **DBeaver**: Sistema de gerenciamento de banco de dados relacional.
 - **JavaScript**: Linguagem de programação principal utilizada no projeto.
 - **Insomnia**: Ferramenta para testar e desenvolver APIs.
 - **Git**: Sistema de controle de versão utilizado para gerenciar o código fonte.
@@ -24,8 +24,8 @@ Este projeto utiliza as seguintes tecnologias e ferramentas:
 ## Imagens
 
 
-- ![Imagem 1](src/assets/images/imagem1.png)
-- ![Imagem 2](src/assets/images/imagem2.png)
+- ![Diagrama Banco](src/assets/images/diagrama.png)
+- ![Rotas API](src/assets/images/rotas.png)
 
 ## Link Adicional
 
